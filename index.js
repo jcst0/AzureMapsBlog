@@ -1,6 +1,6 @@
 ﻿
 //Add your Azure Maps subscription key to the map SDK. Get an Azure Maps key at https://azure.com/maps
-var azureMapsKey = '1c-7dh6-iBJyKyyhF49Iyy9k94uy0SH5wTUiGlAHUpg';
+var azureMapsKey = '<Your Maps Key Here>';
 
 function GetMap() {
 
